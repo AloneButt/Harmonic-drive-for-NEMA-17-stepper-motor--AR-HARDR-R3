@@ -5,6 +5,23 @@ This project demonstrates the design, assembly, and testing of a compact, high-r
 
 ---
 
+## 📂 Repository Contents 
+
+- `/3D` →  CAD models, STEP files
+- `/assembly` → Physically assembled version
+- `/documents` → Technical drawing
+- `/images` → Renders and exploded views
+- `/test` → Test result
+
+---
+
+## ⚙️ Features  
+
+- ✅ **Gear ratio:** 20:1  
+- ✅ **Motor compatibility:** NEMA 17 stepper motors  
+- ✅ **3D printed components**  
+- ✅ Compact and lightweight design  
+- ✅ Entirely modeled in **Fusion 360**  
 
 ---
 
@@ -18,15 +35,6 @@ This project demonstrates the design, assembly, and testing of a compact, high-r
 ![3D CAD](images/3D_CAD.png)  
 ![3D CAD Unfolded](images/3D_CAD_unfolded.png)  
 
----
-
-## ⚙️ Features  
-
-- **Gear ratio:** 20:1  
-- **Motor compatibility:** NEMA 17 stepper motors  
-- **3D printed components**  
-- Compact and lightweight design  
-- Entirely modeled in **Fusion 360**  
 
 ---
 
