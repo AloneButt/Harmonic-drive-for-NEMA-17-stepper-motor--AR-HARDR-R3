@@ -35,6 +35,8 @@ This project demonstrates the design, assembly, and testing of a compact, high-r
 ![3D CAD](images/3D_CAD.png)  
 ![3D CAD Unfolded](images/3D_CAD_unfolded.png)  
 
+### Assembled gearbox with custom driver board featuring TMC2209 Drivers, an ESP32 development board, and custom firmware
+![AR-HARDR-R3_-_gearbox_with_custom_stepper_driver_board_with_TMC2209_and_ESP32.jpg](assembly/AR-HARDR-R3_-_gearbox_with_custom_stepper_driver_board_with_TMC2209_and_ESP32.jpg)
 
 ---
 
