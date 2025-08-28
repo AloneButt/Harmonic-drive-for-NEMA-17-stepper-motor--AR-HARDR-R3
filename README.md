@@ -28,6 +28,7 @@ This project demonstrates the design, assembly, and testing of a compact, high-r
 ## 🖼️ Project Gallery 
 
 ### Rendered Views  
+![3D](images/3D.png)  
 ![3D Unfolded](images/3D_unfolded.png)  
 ![3D Unfolded Rotated](images/3D_unfolded_rotated.png)  
 
